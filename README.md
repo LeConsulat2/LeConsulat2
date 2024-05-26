@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeConsulat2 -- Jonathan -- Welcome to my github page
 - 👀 I’m interested in the role of Application Support Analyst and currently spend a lot of time learning programming languages as I love the tech!
 - 🌱 I’m currently learning intermediate to advanced javascript, Django Framework and ReactJS!
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on business analysis projects, test analysis or any developer opportunity!
 - 📫 How to reach me ... - 👉 wooine2@gmail.com 👈
 
 - ⚡ Fun fact: ... I used to be a profesionally golfer, now love analytics and got into programming. My roles have been the person who works with technical and non-technical users/clients to bridge the gap,
