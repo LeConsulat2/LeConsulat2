@@ -13,7 +13,7 @@ Some of my projects include:
 
 1. Full Stack GPT - https://leconsulat2-fullstack-gpt-home-yuvpqy.streamlit.app/ (does require credential logins, happy to provide if CV or job related)
 2. Momentum interactive page using Javascript - https://leconsulat2.github.io/momentum_2/
-3. Dashboard making from scratch only using Python deployed using Heroku - https://jp-dashboard-3a30a3c59f86.herokuapp.com/
+3. Dashboard making from scratch only using Python, Plotly, Pandas deployed using Streamlit - https://leconsulat2-ronacorona-dashboard-v2-main-bp7cp3.streamlit.app/
 4. Kakaotalk Messenger App Clone using HTML and CSS - https://leconsulat2.github.io/kakaotalk_clone_final/
 5. Current working on Create-React-App - Movie App - https://ps87dw.csb.app/
 
