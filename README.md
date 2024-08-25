@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LeConsulat2 -- Jonathan -- Welcome to my github page
-- 👀 I’m interested in the role of Application Support Analyst and currently spend a lot of time learning programming languages as I love the tech!
+- 👀 I’m interested in the role of Application Support or Back-end Developer, currently working as a Business Analyst.
 - 🌱 I’m currently learning Django Framework using python inside the framework.
-- 📖 I have recently also launched fullstack-gpt using langchain framework using various models such as GPT-4-turbo, Ollama
-- 💞️ I’m looking to collaborate on business analysis projects, test analysis or any developer opportunity!
+- 📖 I have recently also launched fullstack-gpt using langchain framework using various models such as GPT-4o, Ollama
+- 💞️ I’m looking to collaborate on any developer opportunity as a side project.
 - 📫 How to reach me ... - 👉 wooine2@gmail.com 👈
 
 - ⚡ Fun fact: ... I used to be a profesional golfer, worked in golf courses, hotel resort, insurance, currently working in the unversity. 
