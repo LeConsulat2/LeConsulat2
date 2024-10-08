@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeConsulat2 -- Jonathan -- Welcome to my github page
-- 👀 I’m interested in the role of Application Support or Back-end Developer, currently working as a Business Analyst.
+- 👀 I’m interested in the role of Application Support, Business/Functional Analyst or a developer.
 - 🌱 I’m currently learning Django Framework using python inside the framework.
 - 📖 I have recently also launched fullstack-gpt using langchain framework using various models such as GPT-4o, Ollama
 - 💞️ I’m looking to collaborate on any developer opportunity as a side project.
