@@ -17,7 +17,7 @@ Some of my projects include:
 3. Dashboard making from scratch only using Python, Plotly, Pandas deployed using Streamlit - https://leconsulat2-ronacorona-dashboard-v2-main-bp7cp3.streamlit.app/
 4. Kakaotalk Messenger App Clone using HTML and CSS - https://leconsulat2.github.io/kakaotalk_clone_final/
 
-https://gh-hits.nomadcoders.workers.dev/view?username=LeConsulat2
+![](https://gh-hits.nomadcoders.workers.dev/view?username=LeConsulat2)
 <!---
 LeConsulat2/LeConsulat2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
