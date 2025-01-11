@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeConsulat2 -- Jonathan -- Welcome to my github page
 - 👀 I’m interested in the role of Application Support, Business/Functional Analyst or a developer.
-- 🌱 I’m currently learning Django Framework using python inside the framework.
+- 🌱 I’m currently mastering Nextjs.
 - 📖 I have recently also launched fullstack-gpt using langchain framework using various models such as GPT-4o, Ollama
 - 💞️ I’m looking to collaborate on any developer opportunity as a side project.
 - 📫 How to reach me ... - 👉 wooine2@gmail.com 👈
@@ -16,7 +16,7 @@ Some of my projects include:
 2. Momentum interactive page using Javascript - https://leconsulat2.github.io/momentum_2/
 3. Dashboard making from scratch only using Python, Plotly, Pandas deployed using Streamlit - https://leconsulat2-ronacorona-dashboard-v2-main-bp7cp3.streamlit.app/
 4. Kakaotalk Messenger App Clone using HTML and CSS - https://leconsulat2.github.io/kakaotalk_clone_final/
-5. Current working on Create-React-App - Movie App - https://ps87dw.csb.app/
+
 
 <!---
 LeConsulat2/LeConsulat2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
