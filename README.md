@@ -12,6 +12,7 @@
 
 Some of my projects include:
 
+0. My Portfolio page for Excel, SQL and thought processes: built using typsecript,TailwindCSS, nextjs - https://jp-page.vercel.app/ 
 1. Full Stack GPT - https://leconsulat2-fullstack-gpt-home-yuvpqy.streamlit.app/ (does require credential logins, happy to provide if CV or job related)
 2. Momentum interactive page using Javascript - https://leconsulat2.github.io/momentum_2/
 3. Dashboard making from scratch only using Python, Plotly, Pandas deployed using Streamlit - https://leconsulat2-ronacorona-dashboard-v2-main-bp7cp3.streamlit.app/
