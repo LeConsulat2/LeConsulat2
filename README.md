@@ -10,13 +10,9 @@
                     My roles have been the person who works with technical and non-technical users/clients to bridge the gap,
                    I love this end as you get to interact both techincal and non-techincal group of people and fix the issues that appear live.
 
-Some of my projects include:
 
-0. My Portfolio page for Excel, SQL and thought processes: built using typsecript,TailwindCSS, nextjs - https://jp-page.vercel.app/ 
-1. Full Stack GPT - https://leconsulat2-fullstack-gpt-home-yuvpqy.streamlit.app/ (does require credential logins, happy to provide if CV or job related)
-2. Momentum interactive page using Javascript - https://leconsulat2.github.io/momentum_2/
-3. Dashboard making from scratch only using Python, Plotly, Pandas deployed using Streamlit - https://leconsulat2-ronacorona-dashboard-v2-main-bp7cp3.streamlit.app/
-4. Kakaotalk Messenger App Clone using HTML and CSS - https://leconsulat2.github.io/kakaotalk_clone_final/
+My Portfolio page for Excel, SQL and thought processes: built using typsecript,TailwindCSS, nextjs - https://jp-page.vercel.app/ 
+
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=LeConsulat2)
 <!---
