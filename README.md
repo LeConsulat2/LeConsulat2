@@ -18,7 +18,7 @@ I specialize in **solving operational challenges, policy advisories, and process
 - **Portfolio:** [jp-page.vercel.app](https://jp-page.vercel.app/) *(Built with TypeScript, Next.js, and TailwindCSS)*  
  
 ## ⚡ Fun Fact  
-I have built a diverse career—from **professional golf and golf management to insurance consulting and university administration**. My **core strength** lies in identifying the root of issues, providing actionable insights, and enhancing user experiences through **step-by-step practical solutions**.  
+- I have built a diverse career—from **professional golf and golf management to insurance consulting and university administration**. My **core strength** lies in identifying the root of issues, providing actionable insights, and enhancing user experiences through **step-by-step practical solutions**.  
 
 
 
