@@ -3,11 +3,10 @@
 ## About Me  
 I specialize in **solving operational challenges, policy advisories, and process automation**, seamlessly integrating **data analytics and self-taught programming** to enhance efficiency. With a strong ability to **bridge technical and non-technical teams**, I thrive in roles that demand both **analytical thinking and hands-on execution**.
 
-## 🔍 Interests & Focus Areas  
-- **Technology & Analysis:** Passionate about **data analytics, process automation, and software development**, particularly in **Excel, SQL, Python, and Next.js**.  
-- **System & Application Support:** Experienced in **troubleshooting, optimizing business systems, and enhancing workflow efficiencies**.  
-- **Full-Stack Exploration:** Recently launched **fullstack-gpt**, utilizing the **LangChain framework** with models such as **GPT-4o and Ollama**.  
-- **Continuous Learning:** Currently deepening expertise in **Next.js** to build scalable and high-performance web applications.  
+## 🔍 Interests & Focus Areas   
+- **Advisory + Programming Synergy:** Experienced in **troubleshooting, optimizing business systems, and enhancing workflow efficiencies**, uniquely leveraging **programming skills within advisory and administration roles** to create more effective and scalable solutions.  
+- **Technology & Analysis:** Passionate about **data analytics, process automation, and software development**, particularly in **Excel, SQL, Python, and Next.js**. 
+
 
 ## 🚀 Collaboration & Opportunities  
 - Open to **side projects and collaborations** in **development, analytics, or business system optimization**.  
