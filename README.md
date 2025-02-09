@@ -1,25 +1,26 @@
-👋 Welcome to My GitHub – @LeConsulat2 (Jonathan)
+# 👋 Welcome to My GitHub – @LeConsulat2 (Jonathan)
 
-# About Me
-I specialize in solving operational challenges, policy advisories, and process automation, seamlessly integrating data analytics and self-taught programming to enhance efficiency. With a strong ability to bridge technical and non-technical teams, I thrive in roles that demand both analytical thinking and hands-on execution.
+## About Me  
+I specialize in **solving operational challenges, policy advisories, and process automation**, seamlessly integrating **data analytics and self-taught programming** to enhance efficiency. With a strong ability to **bridge technical and non-technical teams**, I thrive in roles that demand both **analytical thinking and hands-on execution**.
 
-**🔍 Interests & Focus Areas
-Technology & Analysis: Passionate about data analytics, process automation, and software development, particularly in Excel, SQL, Python, and Next.js.
-System & Application Support: Experienced in troubleshooting, optimizing business systems, and enhancing workflow efficiencies.
-Full-Stack Exploration: Recently launched fullstack-gpt, utilizing the LangChain framework with models such as GPT-4o and Ollama.
-Continuous Learning: Currently deepening expertise in Next.js to build scalable and high-performance web applications.
+## 🔍 Interests & Focus Areas  
+- **Technology & Analysis:** Passionate about **data analytics, process automation, and software development**, particularly in **Excel, SQL, Python, and Next.js**.  
+- **System & Application Support:** Experienced in **troubleshooting, optimizing business systems, and enhancing workflow efficiencies**.  
+- **Full-Stack Exploration:** Recently launched **fullstack-gpt**, utilizing the **LangChain framework** with models such as **GPT-4o and Ollama**.  
+- **Continuous Learning:** Currently deepening expertise in **Next.js** to build scalable and high-performance web applications.  
 
-**🚀 Collaboration & Opportunities
-Open to side projects and collaborations in development, analytics, or business system optimization.
-Proven experience in English-to-Korean translation for complex programming courses, having worked on Nomad Coders’ translation project to localize technical content for Korean learners.
-Enthusiastic about leveraging AI, automation, and software solutions to drive operational efficiency and decision-making.
+## 🚀 Collaboration & Opportunities  
+- Open to **side projects and collaborations** in **development, analytics, or business system optimization**.  
+- Proven experience in **English-to-Korean translation** for **complex programming courses**, having worked on **Nomad Coders’ translation project** to localize technical content for Korean learners.  
+- Enthusiastic about **leveraging AI, automation, and software solutions** to drive **operational efficiency and decision-making**.  
 
-**📫 Get in Touch
-Email: 👉 wooine2@gmail.com 👈
-Portfolio: jp-page.vercel.app (Built with TypeScript, Next.js, and TailwindCSS)
+## 📫 Get in Touch  
+- **Email:** 👉 wooine2@gmail.com 👈  
+- **Portfolio:** [jp-page.vercel.app](https://jp-page.vercel.app/) *(Built with TypeScript, Next.js, and TailwindCSS)*  
 
-**⚡ Fun Fact
-Before transitioning into analytics and programming, I built a diverse career—from professional golf and resort management to insurance consulting and university administration. My core strength lies in working across both technical and business domains, ensuring smooth communication between teams, troubleshooting live issues, and enhancing user experiences through data-driven solutions.
+## ⚡ Fun Fact  
+Before transitioning into **analytics and programming**, I built a diverse career—from **professional golf and resort management to insurance consulting and university administration**. My **core strength** lies in working across **both technical and business domains**, ensuring smooth communication between teams, troubleshooting live issues, and enhancing user experiences through **data-driven solutions**.  
+
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=LeConsulat2)
 <!---
