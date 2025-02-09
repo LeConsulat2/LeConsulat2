@@ -1,5 +1,6 @@
 👋 Welcome to My GitHub – @LeConsulat2 (Jonathan)
-About Me
+
+# About Me
 I specialize in solving operational challenges, policy advisories, and process automation, seamlessly integrating data analytics and self-taught programming to enhance efficiency. With a strong ability to bridge technical and non-technical teams, I thrive in roles that demand both analytical thinking and hands-on execution.
 
 🔍 Interests & Focus Areas
