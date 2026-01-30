@@ -1,64 +1,53 @@
-👋 Welcome to My GitHub – @LeConsulat2 (Jonathan Park)
-About Me
+# 👋 Welcome to My GitHub – @LeConsulat2 (Jonathan)
 
-I work at the intersection of operations, project delivery, and data-driven improvement.
-My background spans university administration, advisory work, and self-taught software development, where I’ve consistently focused on one thing: making complex work run reliably.
+## About Me
 
-I’m particularly strong at turning messy, real-world operations into structured systems—using clear governance, practical analytics, and lightweight automation to support better decisions and smoother delivery. I’m comfortable bridging technical and non-technical teams, and I value clarity, follow-through, and conscientious execution.
+I work at the intersection of **operations, project delivery, and data-driven improvement**, with experience across university administration, advisory work, and self-taught software development.  
+I focus on making complex work run reliably—turning messy, real-world operations into structured systems through clear coordination, practical analytics, and lightweight automation—while confidently bridging technical and non-technical teams.
 
-🔍 Core Focus Areas
-🧭 Project & Operational Delivery
+---
 
-Supporting work involving multiple stakeholders, moving priorities, and operational risk
+## 🔍 Interests & Focus Areas
 
-Creating clear reporting, documentation, and delivery rhythm (status, actions, ownership, cadence)
+### Operations & Project Delivery
+Experienced in supporting work involving multiple stakeholders, shifting priorities, and operational risk, using clear reporting, documentation, and delivery cadence (status, actions, ownership, follow-through) to keep work moving.
 
-Improving how teams coordinate, not just what tools they use
+### Data, Automation & Analysis
+Strong hands-on skills in **Excel (Power Query, structured reporting)**, **SQL**, and **Python**, with a practical approach to analytics that surfaces bottlenecks, workload pressure, and improvement opportunities.
 
-📊 Data, Analysis & Automation
+### Thoughtful Use of AI
+Interested in leveraging AI as a coordination and quality-improvement tool, including summarisation, structured notes, reporting drafts, and automation support—always human-checked, privacy-aware, and fit for organisational contexts.
 
-Practical analytics to surface bottlenecks, trends, and workload pressure
+---
 
-Strong hands-on skills in Excel (Power Query, structured reporting), SQL, and Python
+## 🚀 Collaboration & Opportunities
 
-Building small, purpose-driven tools that reduce friction and manual work, rather than over-engineering
+- Open to side projects and collaborations in analytics, internal tools, or operational optimisation.
+- Proven experience in **English-to-Korean translation** for complex programming courses, having worked on **Nomad Coders’ translation project** to localise technical content accurately and clearly.
+- Particularly interested in work where technology directly improves how people work, rather than adding unnecessary complexity.
 
-🤖 Thoughtful Use of AI
+---
 
-Using AI as a coordination and quality-improvement tool, not a shortcut
+## 📫 Get in Touch
 
-Examples include summarisation, structured notes, reporting drafts, and automation support
+### Golf Web App  
+https://www.reasonable.cool/  
+→ A practical web app recommending golf clubs and generating high-quality prompts, built to explore real user decision-making.
 
-Always human-checked, privacy-aware, and fit for organisational contexts
+### Email  
+👉 **wooine2@gmail.com** 👈
 
-🚀 Projects & Collaboration
+### Portfolio  
+**jp-page.vercel.app**  
+(Built with TypeScript, Next.js, and TailwindCSS)
 
-Open to side projects and collaborations involving analytics, internal tools, or operational optimisation
+---
 
-Experience contributing to Nomad Coders as an English-to-Korean translator for complex programming courses, ensuring technical accuracy and clarity for learners
+## ⚡ Fun Fact
 
-Particularly interested in projects where technology directly improves how people work
+I’ve built a deliberately non-linear career—from professional golf and golf management to insurance consulting and university operations/advisory work.  
+My core strength lies in staying calm in ambiguity, identifying root causes, and delivering step-by-step practical solutions that actually land.
 
-🌐 Selected Work
-
-🏌️ Golf Recommendation Web App → https://www.reasonable.cool/
-
-A practical web app that recommends golf clubs and generates high-quality prompts, built to explore real user decision-making.
-
-🎨 Portfolio → https://jp-page.vercel.app/
-
-Built with TypeScript, Next.js, and TailwindCSS, showcasing experiments across data, automation, and design.
-
-📫 Get in Touch
-
-Email: wooine2@gmail.com
-
-GitHub: @LeConsulat2
-
-⚡ Fun Fact
-
-I’ve built a deliberately non-linear career—from professional golf and golf management, to insurance consulting, and into university operations and advisory work.
-That range trained me to stay calm in ambiguity, respect detail, and focus on practical solutions that actually land.
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=LeConsulat2)
 <!---
