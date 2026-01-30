@@ -9,7 +9,7 @@ I’m particularly strong at turning messy, real-world operations into structure
 🔍 Core Focus Areas
 🧭 Project & Operational Delivery
 
-Supporting work that involves multiple stakeholders, moving priorities, and operational risk
+Supporting work involving multiple stakeholders, moving priorities, and operational risk
 
 Creating clear reporting, documentation, and delivery rhythm (status, actions, ownership, cadence)
 
@@ -57,9 +57,8 @@ GitHub: @LeConsulat2
 
 ⚡ Fun Fact
 
-I’ve built a deliberately non-linear career—moving from professional golf and golf management, to insurance consulting, and into university operations and advisory work.
+I’ve built a deliberately non-linear career—from professional golf and golf management, to insurance consulting, and into university operations and advisory work.
 That range trained me to stay calm in ambiguity, respect detail, and focus on practical solutions that actually land.
-
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=LeConsulat2)
 <!---
