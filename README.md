@@ -73,7 +73,7 @@ I’m open to collaboration on projects involving:
 
 ## ⚡ A Bit About Me
 
-My career path has been intentionally non-linear: from golf and golf operations, to insurance consulting, to university administration, project support, reporting, translation/localisation, and self-taught technical work.
+My career path has been non-linear: from golf and golf operations, to insurance consulting, to university administration, project support, reporting, translation/localisation, and self-taught technical work.
 
 That range is not accidental. It reflects how I naturally work: I like understanding the whole picture, moving across disciplines, and building things that are grounded in reality rather than boxed into one narrow lane.
 
