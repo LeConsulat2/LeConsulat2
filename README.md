@@ -2,55 +2,83 @@
 
 ## About Me
 
-I work at the intersection of **operations, project delivery, and data-driven improvement**, with experience across university administration, advisory work, and self-taught software development.  
-I focus on making complex work run reliably—turning messy, real-world operations into structured systems through clear coordination, practical analytics, and lightweight automation—while confidently bridging technical and non-technical teams.
+I’m a **product-minded generalist** working across **operations, systems, analytics, language, and digital tools**.
+
+My background is deliberately broad: university operations, advisory work, stakeholder coordination, translation/localisation, and self-taught software development. That mix has shaped how I work — I’m most effective where structured thinking, practical technology, and real-world user needs need to come together.
+
+I’m particularly interested in building and improving things that are not only technically functional, but also genuinely useful: internal tools, reporting workflows, user-facing web apps, and systems that help people make clearer decisions or learn more effectively.
 
 ---
 
-## 🔍 Interests & Focus Areas
+## 🔍 What I Work On
 
-### Operations & Project Delivery
-Experienced in supporting work involving multiple stakeholders, shifting priorities, and operational risk, using clear reporting, documentation, and delivery cadence (status, actions, ownership, follow-through) to keep work moving.
+### Product Thinking & Practical Tools
+I like building digital tools that solve real problems — especially where product thinking, usability, and decision support matter. My projects often sit between raw functionality and user experience: not just *can this be built?*, but *does this actually help people?*
 
-### Data, Automation & Analysis
-Strong hands-on skills in **Excel (Power Query, structured reporting)**, **SQL**, and **Python**, with a practical approach to analytics that surfaces bottlenecks, workload pressure, and improvement opportunities.
+### Operations, Systems & Delivery
+I bring a strong operational mindset shaped by work in complex administrative and advisory environments. I’m comfortable coordinating across moving parts, clarifying ambiguity, improving workflows, and helping work run more cleanly from end to end.
 
-### Thoughtful Use of AI
-Interested in leveraging AI as a coordination and quality-improvement tool, including summarisation, structured notes, reporting drafts, and automation support—always human-checked, privacy-aware, and fit for organisational contexts.
+### Data, Reporting & Practical Automation
+I use **Excel, SQL, Python, reporting tools, and business systems** as practical instruments for problem-solving rather than as ends in themselves. My focus is usually on visibility, bottlenecks, workload patterns, process improvement, and making messy information more decision-ready.
+
+### AI, Language & Translation
+I’m also interested in the thoughtful use of AI for content, structure, workflow support, and learning experiences. Alongside this, I’ve worked on **English-to-Korean technical translation**, helping make programming education clearer and more accessible for Korean learners.
 
 ---
 
-## 🚀 Collaboration & Opportunities
+## 🚀 Current Interests
 
-- Open to side projects and collaborations in analytics, internal tools, or operational optimisation.
-- Proven experience in **English-to-Korean translation** for complex programming courses, having worked on **Nomad Coders’ translation project** to localise technical content accurately and clearly.
-- Particularly interested in work where technology directly improves how people work, rather than adding unnecessary complexity.
+- Product-led web apps
+- Internal tools and workflow improvement
+- Reporting, analysis, and operational visibility
+- AI-assisted learning tools
+- Language education and localisation
+- Systems that connect practical utility with clean UX
+
+---
+
+## 🌐 Projects
+
+### Golf Web App  
+**https://www.reasonable.cool/**  
+→ A practical golf web app exploring recommendation logic, user decision-making, and high-quality prompt generation in a real product context.
+
+### Korean Learning Web App  
+**https://www.writekorean.cool/**  
+→ A Korean learning web app built around practical scenarios, structured progression, and cleaner UX — exploring how language, product design, and AI can work together to support real learning.
+
+### Portfolio  
+**https://jp-page.vercel.app/**  
+→ Selected work, experiments, and projects across web, operations, reporting, and product-oriented problem-solving.
+
+---
+
+## 🤝 Collaboration & Opportunities
+
+I’m open to collaboration on projects involving:
+
+- Product ideas with practical value
+- Internal tools or workflow systems
+- Analytics and reporting improvements
+- Language, translation, or learning-focused products
+- Cross-functional work where technical and non-technical thinking need to meet
 
 ---
 
 ## 📫 Get in Touch
 
-### Golf Web App  
-https://www.reasonable.cool/  
-→ A practical web app recommending golf clubs and generating high-quality prompts, built to explore real user decision-making.
-
-### Email  
-👉 **wooine2@gmail.com** 👈
-
-### Portfolio  
-**jp-page.vercel.app**  
-(Built with TypeScript, Next.js, and TailwindCSS)
+**Email:** [wooine2@gmail.com](mailto:wooine2@gmail.com)
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ A Bit About Me
 
-I’ve built a deliberately non-linear career—from professional golf and golf management to insurance consulting and university operations/advisory work.  
-My core strength lies in staying calm in ambiguity, identifying root causes, and delivering step-by-step practical solutions that actually land.
+My career path has been intentionally non-linear: from golf and golf operations, to insurance consulting, to university administration, project support, reporting, translation/localisation, and self-taught technical work.
 
+That range is not accidental. It reflects how I naturally work: I like understanding the whole picture, moving across disciplines, and building things that are grounded in reality rather than boxed into one narrow lane.
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=LeConsulat2)
+
 <!---
-LeConsulat2/LeConsulat2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+LeConsulat2/LeConsulat2 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
